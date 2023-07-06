@@ -1,0 +1,6 @@
+package com.uft0da.dron
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
